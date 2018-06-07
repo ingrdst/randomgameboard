@@ -12,20 +12,20 @@ Jogo de tabuleiro randômico programado na linguagem C e apresentado como trabal
 
 >> Instalação do compilador no terminal (Linux)
 
-gcc
-sudo apt -get install gcc
+* gcc
+* sudo apt -get install gcc
 
 >> Execução do programa
 
-gcc -ansi -Wall -o <nome programa> <arquivo de entrada.c>
+gcc -ansi -Wall -o <*nome programa*> <*arquivo de entrada.c*>
 
 >> Comandos úteis para o terminal
 
-cd ~ [diretório home]
-ls [verificar arquivos locais]
-clear [limpar tela]
-clear && ls [comandos simultâneos]
-exit [sair]
+* cd ~ [diretório home]
+* ls [verificar arquivos locais]
+* clear [limpar tela]
+* clear && ls [comandos simultâneos]
+* exit [sair]
 
 
 >> Developer
