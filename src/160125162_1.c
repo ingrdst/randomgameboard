@@ -436,7 +436,7 @@ int main(){
     printf("\n");
     printf("*************************\n");
     printf("*************************\n");
-    printf("(将棋 (SHOGI)\n"); /*Nome do jogo.*/
+    printf("Tabuleiro Randomico \n"); /*Nome do jogo.*/
     printf("*************************\n");
     printf("*************************\n");
     printf("\n");
