@@ -1,4 +1,4 @@
-# Algoritmos e Programação de Computadores (2017/2)
+# Algoritmos e Programação de Computadores
 
 >> Funcionamento
 
