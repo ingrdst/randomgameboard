@@ -1,11 +1,4 @@
 /*
- Universidade de Brasilia
- Instituto de Ciencias Exatas
- Departamento de Ciencia da Computacao
- Algoritmos e Programação de Computadores – 2/2017
- Aluno(a): Ingrid C. G. S. Soares
- Matricula: 160125162
- Turma: A
  Versão do compilador: gcc (SUSE Linux) 4.8.5
  Descricao: Jogo em grid 2D (20x20) com jogador principal e personagens secundários, com suas respectivas funcoes
  (aleatorias ou nao), e sendo o objetivo principal o jogador conseguir o maior numero de pontos antes do tempo
