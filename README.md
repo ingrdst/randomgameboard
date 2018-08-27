@@ -27,7 +27,3 @@ gcc -ansi -Wall -o <*nome programa*> <*arquivo de entrada.c*>
 * clear && ls [comandos simultâneos]
 * exit [sair]
 
-
->> Developer
-
-Matrícula: 160125162
